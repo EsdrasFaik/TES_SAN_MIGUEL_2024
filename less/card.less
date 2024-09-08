@@ -1,0 +1,34 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 1rem;
+    gap: 1rem;
+
+    h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+.image-card {
+    display: flex;
+    max-width: 280px;
+    min-width: 280px;
+    background-color: @secondary-color;
+    color: @secondary-text-color;
+    box-shadow: 3px 3px 5px darken(@primary-color, 20%);
+    margin: 0.5rem;
+    padding: 1rem;
+    flex-direction: column;
+    
+    img {
+        width: 100%; /* Asegura que la imagen ocupe todo el ancho */
+        height: 200px; /* Establece una altura fija para las imágenes */
+        object-fit: cover; /* Esto hace que las imágenes se recorten para llenar el contenedor sin distorsionarse */
+        display: block;
+    }
+}

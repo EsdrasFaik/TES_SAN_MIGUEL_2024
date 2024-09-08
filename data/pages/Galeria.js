@@ -1,0 +1,45 @@
+const Galeria = {
+    galeria: [
+        { url: 'images/Boquin.jpeg' },
+        { url: 'images/Boquin2.jpeg' },
+        { url: 'images/Boquin3.jpeg' },
+        { url: 'images/Boquin4.jpeg' },
+        { url: 'images/Boquin5.jpeg' },
+        { url: 'images/Boquin6.jpeg' },
+        { url: 'images/Boquin7.jpeg' },
+        { url: 'images/Boquin8.jpeg' },
+        { url: 'images/Boquin9.jpeg' },
+        { url: 'images/Boquin10.jpeg' },
+        { url: 'images/Boquin11.jpeg' },
+        { url: 'images/Boquin12.jpeg' },
+        { url: 'images/Boquin13.jpeg' },
+        { url: 'images/Inmigrantes.jpeg' },
+        { url: 'images/Inmigrantes2.jpeg' },
+        { url: 'images/Inmigrantes3.jpeg' },
+        { url: 'images/Inmigrantes4.jpeg' },
+        { url: 'images/Necesitados0.jpeg' },
+        { url: 'images/Necesitados01.jpeg' },
+        { url: 'images/Necesitados.jpeg' },
+        { url: 'images/Necesitados2.jpeg' },
+        { url: 'images/Necesitados3.jpeg' },
+        { url: 'images/Necesitados4.jpeg' },
+        { url: 'images/Necesitados5.jpeg' },
+        { url: 'images/Necesitados6.jpeg' },
+        { url: 'images/Necesitados7.jpeg' },
+        { url: 'images/Necesitados8.jpeg' },
+        { url: 'images/Necesitados9.jpeg' },
+        { url: 'images/Necesitados10.jpeg' },
+        { url: 'images/Necesitados11.jpeg' },
+        { url: 'images/Necesitados12.jpeg' },
+        { url: 'images/Niños.jpeg' },
+        { url: 'images/Niños2.jpeg' },
+        { url: 'images/Niños3.jpeg' },
+        { url: 'images/Renales.jpeg' },
+        { url: 'images/Renales2.jpeg' },
+        { url: 'images/Renales3.jpeg' },
+        { url: 'images/Renales4.jpeg' }
+    ]
+};
+
+
+export default Galeria;
