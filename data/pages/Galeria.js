@@ -37,8 +37,18 @@ const Galeria = {
         { url: 'images/Renales.jpeg' },
         { url: 'images/Renales2.jpeg' },
         { url: 'images/Renales3.jpeg' },
-        { url: 'images/Renales4.jpeg' }
+        { url: 'images/Renales4.jpeg' },
+        { url: 'images/Renales5.jpeg' },
+        { url: 'images/Renales6.jpeg' },
+        { url: 'images/Renales7.jpeg' },
+        { url: 'images/Renales8.jpeg' },
+        { url: 'images/Renales9.jpeg' },
+        { url: 'images/Renales10.jpeg' },
+        { url: 'images/Renale11.jpeg' },
+        { url: 'images/Renales12.jpeg' }
+    
     ]
+    
 };
 
 
