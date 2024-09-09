@@ -44,7 +44,7 @@ const Galeria = {
         { url: 'images/Renales8.jpeg' },
         { url: 'images/Renales9.jpeg' },
         { url: 'images/Renales10.jpeg' },
-        { url: 'images/Renale11.jpeg' },
+        { url: 'images/Renales11.jpeg' },
         { url: 'images/Renales12.jpeg' }
     
     ]
